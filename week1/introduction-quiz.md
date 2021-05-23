@@ -28,7 +28,7 @@ been at risk of bankruptcy). Would you treat this as a classification or a regre
   1. Classification
   1. Regression 
   
-**A3.** Classification
+**A3.** Regression
 
 **Q4.** Some of the problems below are best addressed using a supervised learning algorithm, and the others with an 
 unsupervised learning algorithm. Which of the following would you apply supervised learning to? (Select all that apply.) 
